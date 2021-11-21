@@ -1,0 +1,13 @@
+.success {
+  /* color: "#00D84A"; */
+  color: #00d84a;
+}
+.min {
+  padding-top: 200px;
+  min-height: 60vh;
+}
+
+.card {
+  font-size: 2rem;
+  font-weight: 600;
+}
